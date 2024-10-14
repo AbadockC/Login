@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="email">Email</string>
+    <string name="phone">phone</string>
+    <string name="todo">TODO</string>
+    <string name="create_new_naccount">Create new \nAccount</string>
+</resources>
